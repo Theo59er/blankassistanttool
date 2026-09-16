@@ -1,0 +1,6 @@
+{
+  "name": "ClawAssistant",
+  "description": "Verbindet LM Studio & OpenClaw mit Google Kalender, lokalen KI-Prompts und Chat-Assistenten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
